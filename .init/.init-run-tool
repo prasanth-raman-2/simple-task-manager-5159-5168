@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-task-manager-5159-5168/todo_frontend"
+}
